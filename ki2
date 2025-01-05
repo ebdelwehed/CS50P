@@ -1,0 +1,13 @@
+#samee function parameter wadato balse default value uyeel
+
+# import cowsay
+# import sys
+
+# if len(sys.argv) == 2:
+#     cowsay.horse("i am ",sys.argv{1})
+# print("hello")
+
+tex = """" 
+abcaab
+"""
+print(tex)
